@@ -1,0 +1,16 @@
+**/*.log
+**/node_modules
+.coverage
+coverage
+.nyc_output
+.env
+private
+docs/
+out/
+build/
+system-test/secrets.js
+system-test/*key.json
+*.lock
+.DS_Store
+package-lock.json
+__pycache__
